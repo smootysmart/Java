@@ -8,8 +8,7 @@ public class Method5__arr2 {
         System.out.println("Your Max Number is " + findMaxInArray(numberB));
         int[] numberC = { 100, 200 };
         System.out.println("Location is " + findMaxIndex(numberA));
-
-
+        
     }
 
     static void displayArray(int[] arr) {
